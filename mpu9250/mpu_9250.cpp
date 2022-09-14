@@ -823,6 +823,3 @@ void getDataMPU(float *buffer)
 
 
 
-// anuladas hasta que requieran uso:
-/*--- extern I2C_HandleTypeDef hi2c1;            -------*/
-/*--- extern CS_Status_TypeDef CS_Status;            ---*/
